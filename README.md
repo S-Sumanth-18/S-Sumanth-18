@@ -2,23 +2,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:0e7490,100:7c3aed&height=220&section=header&text=SUMANTH&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=BUILD.%20BREAK.%20LEARN.%20REPEAT.&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070B,35:101820,70:263746,100:B89B5E&height=220&section=header&text=SUMANTH&fontSize=70&fontColor=F5F5F5&fontAlignY=38&desc=BUILD.%20BREAK.%20LEARN.%20REPEAT.&descAlignY=58&descSize=18&descColor=C5B887&animation=fadeIn" width="100%" />
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=700&lines=Java+Developer+%7C+Problem+Solver;Full-Stack+Development+Enthusiast;Building+AI-Powered+Applications;Learning+DSA+%7C+Cloud+%7C+DevOps;Turning+Ideas+Into+Working+Software" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
-</a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=C5B887&center=true&vCenter=true&width=650&lines=I+AM+THE+NIGHT...+I+WRITE+THE+CODE.;ENTER+GOTHAM%3A+JAVA+%7C+DSA+%7C+AI;DISCIPLINE.+DETECTION.+DEVELOPMENT." alt="Typing SVG" />
 
 </div>
 

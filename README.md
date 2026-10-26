@@ -126,30 +126,28 @@ Practicing DSA, improving Java development, and creating projects that solve rea
 </table>
 
 ---
+---
 
-## `git_stats --show`
+## ⚡ Developer Mode
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+| CURRENT MISSION | STATUS |
+|:---:|:---:|
+| ☕ Java & DSA | `IN PROGRESS` |
+| 💻 Full-Stack Development | `BUILDING` |
+| 🧠 AI / Machine Learning | `EXPLORING` |
+| ⚙️ Cloud & DevOps | `LEARNING` |
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+### 💻 My Philosophy
 
-<br/>
+**Build projects. Solve problems. Keep improving.**
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+*I don't chase contribution counts. I focus on writing code that matters.*
 
 </div>
 
 ---
-
-## `contribution_graph`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=22d3ee&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%" />
-
-</div>
 
 ---
 

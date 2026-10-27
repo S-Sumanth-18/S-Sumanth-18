@@ -132,11 +132,11 @@ Practicing DSA, improving Java development, and creating projects that solve rea
 
 ---
 ### ⚡ One commit at a time. One level better every day.
+<div align="center">
 ---
 
 
 
-<div align="center">
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:0e7490,100:09090b&height=120&section=footer" width="100%" />

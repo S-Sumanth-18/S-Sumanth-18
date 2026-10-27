@@ -134,17 +134,7 @@ Practicing DSA, improving Java development, and creating projects that solve rea
 
 ---
 
-## `currently_running`
 
-```text
-[✓] Learning Java
-[✓] Practicing Data Structures & Algorithms
-[✓] Developing AI and full-stack projects
-[>] Improving GitHub portfolio
-[>] Exploring Cloud & DevOps
-```
-
----
 
 <div align="center">
 

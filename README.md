@@ -133,7 +133,7 @@ Practicing DSA, improving Java development, and creating projects that solve rea
 
 ---
 <div align="center">
-### ⚡ One commit at a time. One level better every day.
+⚡ One commit at a time. One level better every day.
 
 
 ---

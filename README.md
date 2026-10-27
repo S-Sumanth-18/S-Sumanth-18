@@ -71,31 +71,31 @@ public class Sumanth {
 ### 🩻 PneumoX
 **AI-Powered Pneumonia Detection**
 
-Chest X-ray classification using deep learning ensemble models, with explainability through Grad-CAM visualizations.
+An AI application that classifies chest X-rays using ensemble deep learning models and provides Grad-CAM visualizations for explainability.
 
 `Python` `TensorFlow` `PyTorch` `React` `FastAPI`
 
 </td>
 <td width="50%">
 
-### ⚙️ Issue Tracking System
-**Web Development + DevOps**
+### 📄 Resume Scoring System
+**Automated Resume Evaluation**
 
-A web-based issue tracking project built with a modern frontend and a deployment workflow.
+A system that evaluates resumes against relevant criteria and generates scores to help assess resume quality.
 
-`React` `Vite` `Docker` `Jenkins` `GitHub`
+`Python` `NLP` `Machine Learning`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 📋 Online Grievance System
-**Web Application**
+### 🧩 Sudo8Maze
+**Web-Based Maze Project**
 
-A web application concept for submitting and managing grievances.
+A maze-based project focused on interactive gameplay and problem-solving.
 
-`HTML` `CSS` `Bootstrap`
+`JavaScript` `HTML` `CSS`
 
 </td>
 <td width="50%">
@@ -110,9 +110,6 @@ Practicing DSA, improving Java development, and creating projects that solve rea
 </td>
 </tr>
 </table>
-
----
----
 
 ## ⚡ Developer Mode
 
